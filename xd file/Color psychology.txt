@@ -1,0 +1,11 @@
+Yellow (1st)
+Green	(2nd)
+Blue	(3rd)
+Purple  (4th)
+
+
+Font 
+Montserrat (1st)
+Poppins (2nd)
+Nunito (3rd)
+Raleway (4th)
